@@ -7,7 +7,7 @@
 This project is similar to the [My Portfolio](https://github.com/fmanimashaun/My-Portfolio) but here, we will be experimenting with bootstrap v5 while also making use of the pair programming methodology for collaboration.
 
 
-> [Live Demo Link](#)
+> [Live Demo Link](https://fmanimashaun.github.io/Landing_page-bs5/)
 
 
 ## Screenshots

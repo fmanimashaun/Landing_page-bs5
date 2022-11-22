@@ -1,10 +1,10 @@
 ![](https://img.shields.io/badge/fmanimashaun-blue)
 
-# Sample Personal Portfolio Using Bootstrap v5
+# A resturant website Using Bootstrap v5
 
 ## Overview
 
-This project is similar to the [My Portfolio](https://github.com/fmanimashaun/My-Portfolio) but here, we will be experimenting with bootstrap v5 while also making use of the pair programming methodology for collaboration.
+This project is a simple resturamt website using Bootstrap 5 but here, we will be experimenting with bootstrap v5 while also making use of the pair programming methodology for collaboration.
 
 
 > [Live Demo Link](https://fmanimashaun.github.io/Landing_page-bs5/)

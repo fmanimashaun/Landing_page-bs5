@@ -1,10 +1,10 @@
 ![](https://img.shields.io/badge/fmanimashaun-blue)
 
-# A resturant website Using Bootstrap v5
+# A resturant Landing page Using Bootstrap v5
 
 ## Overview
 
-This project is a simple resturamt website using Bootstrap 5 but here, we will be experimenting with bootstrap v5 while also making use of the pair programming methodology for collaboration.
+This project is a simple resturamt landing page using Bootstrap 5. The project was created to demonstrate the use of Bootstrap 5 and how it can be used to create a simple landing page.
 
 
 > [Live Demo Link](https://fmanimashaun.github.io/Landing_page-bs5/)
@@ -14,19 +14,19 @@ This project is a simple resturamt website using Bootstrap 5 but here, we will b
 
 <h3 align="center">Desktop View</h3>
 <p align="center">
-  <img width="1440" src="#">
+  <img width="1440" src="screenshots/desktop.png">
 </P>
 
 
 <h3 align="center">Tablet View</h3>
 <p align="center">
-  <img width="768" src="#">
+  <img width="768" src="screenshots/tablet.png">
 </P>
 
 
 <h3 align="center">Mobile View</h3>
 <p align="center">
-  <img width="375" src="#">
+  <img width="375" src="screenshots/mobile.png">
 </P>
 
 
